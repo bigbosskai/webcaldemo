@@ -1,5 +1,14 @@
-# webcaldemo
-## 1. install
+# webcalculator
+## install
+```bash
+$ git clone git@github.com:bigbosskai/webcalculator.git
+$ cd webcalculator
+$ mkdir build
+$ cd build
+$ cmake ../
+$ make
 ```
-git clone git@github.com:bigbosskai/webcaldemo.git
+## 使用指南
+```
+我也不知道写什么东西
 ```
